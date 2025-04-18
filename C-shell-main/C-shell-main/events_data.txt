@@ -1,0 +1,14 @@
+echo 1 ; echo 2 ; echo 3
+echo 1;echo 2;echo3
+warp test
+warp 
+seek -e test
+seek -e test2
+seek -d -f gfg
+warp
+seek -d -f gfg
+make
+ls
+peek -al
+ls -al
+warp -
